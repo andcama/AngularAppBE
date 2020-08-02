@@ -3,4 +3,4 @@ Backend para AngularApp
 
 Para iniciar ejecute el comando:
 
-node index.js
+npm install y despues  node index.js
